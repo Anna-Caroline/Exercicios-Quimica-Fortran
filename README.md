@@ -1,2 +1,2 @@
 # Exercicios-Quimica-Fortran
-Problemas de química em Fortran
+Solução de problemas de química em Fortran
